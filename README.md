@@ -6,6 +6,7 @@ C language learning record
 
 ## Compiler Version:
 > D:\Code\Clang\ClangTutorial>gcc -v
+```bash
 Using built-in specs.
 COLLECT_GCC=gcc
 COLLECT_LTO_WRAPPER=E:/Program/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/lto-wrapper.exe
@@ -14,3 +15,4 @@ Configured with: ../gcc-12.2.0/configure --prefix=/mingw64 --with-local-prefix=/
 Thread model: posix
 Supported LTO compression algorithms: zlib zstd
 gcc version 12.2.0 (Rev1, Built by MSYS2 project)
+```
