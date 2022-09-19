@@ -10,9 +10,9 @@ int main(int argc, char* argv[])
 
     if (isStudyHard == 1)
     {
-        printf("You have good grades.");
+        printf("You have good grades.\n");
     } else {
-        printf("You have bad grades.");
+        printf("You have bad grades.\n");
     }
 
     return 0;
